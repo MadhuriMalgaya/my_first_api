@@ -1,0 +1,80 @@
+[
+    {
+      "id": 9,
+      "name": "Pizza",
+      "description": "The perfect meal. An open-faced pie using tomato sauce, cheese, and any matter of toppings. Tastes like heaven and is sometimes stated to be better than a relationship.",
+      "price": 300,
+      "stars": 5,
+      "img": "/images/pizza.jpg",
+      "location": "India",
+      "created_at": "2025-01-09 12:00:00",
+      "updated_at": "2025-01-09 12:00:00",
+      "type_id": 1
+  },
+
+  {
+      "id": 4,
+      "name": "Dal Bati Churma",
+      "description": "Traditional Rajasthani dish with baked wheat balls, lentils, and sweet churma.",
+      "price": 220,
+      "stars": 5,
+      "img": "/images/Dal_Bati.jpg",
+      "location": "India",
+      "created_at": "2025-01-04 14:00:00",
+      "updated_at": "2025-01-04 14:00:00",
+      "type_id": 1
+  },
+
+  {
+      "id": 7,
+      "name": "Desserts",
+      "description": "Ice cream is a frozen dessert typically made from milk or cream that has been flavoured with a sweetener, either sugar or an alternative, and a spice, such as cocoa or vanilla, or with fruit, such as strawberries or peaches.",
+      "price": 350,
+      "stars": 5,
+      "img": "/images/icecream.jpg",
+      "location": "Japan",
+      "created_at": "2025-01-07 15:00:00",
+      "updated_at": "2025-01-07 15:00:00",
+      "type_id": 1
+  },
+
+  {
+      "id": 8,
+      "name": "Samosha",
+      "description": "samosa is a tasty Indian dish, a little pocket of fried dough filled with spiced potato and peas.",
+      "price": 170,
+      "stars": 4,
+      "img": "/images/Samosha.png",
+      "location": "Mexico",
+      "created_at": "2025-01-08 16:00:00",
+      "updated_at": "2025-01-08 16:00:00",
+      "type_id": 1
+  },
+
+  {
+      "id": 10,
+      "name": "Fruit Salad",
+      "description": "Fresh seasonal fruits mixed with honey and lemon juice.",
+      "price": 120,
+      "stars": 4,
+      "img": "/images/fruit-salad.jpg",
+      "location": "Global",
+      "created_at": "2025-01-10 08:00:00",
+      "updated_at": "2025-01-10 08:00:00",
+      "type_id": 1
+  },
+
+  {
+      "id": 13,
+      "name": "Parathas",
+      "description": "Parathas: Traditional Indian flatbreads, soft and flaky.Served plain or stuffed with spiced potatoes, paneer, or veggies.Perfect with yogurt, pickles, or chutney for a hearty meal.",
+      "price": 80,
+      "stars": 4,
+      "img": "/images/parathas.jpg",
+      "location": "Global",
+      "created_at": "2025-01-10 08:00:00",
+      "updated_at": "2025-01-10 08:00:00",
+      "type_id": 1
+  }
+
+]
