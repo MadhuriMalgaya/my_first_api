@@ -141,13 +141,13 @@
   "updated_at": "2025-01-12 20:00:00",
   "type_id": 1,
   "restaurants": [
-    { "id": 1201, "name": "Sattvik Zaika", "address": "Kothrud, Pune", "rating": 4.5, "img": "/images/paratha1.jpg" },
-    { "id": 1202, "name": "Thali House", "address": "Chandni Chowk, Delhi", "rating": 4.4, "img": "/images/paratha2.jpg" },
-    { "id": 1203, "name": "Green Leaf", "address": "Indiranagar, Bangalore", "rating": 4.6, "img": "/images/paratha3.jpg" },
-    { "id": 1204, "name": "Rasoi Rasam", "address": "T Nagar, Chennai", "rating": 4.3, "img": "/images/paratha4.jpg" },
-    { "id": 1205, "name": "Pure Veg Bhojanalay", "address": "MI Road, Jaipur", "rating": 4.2, "img": "/images/parathas.jpg" },
-    { "id": 1206, "name": "Shuddh Zaika", "address": "Banjara Hills, Hyderabad", "rating": 4.5, "img": "/images/paratha1.jpg" },
-    { "id": 1207, "name": "Annapurna Thali", "address": "Salt Lake, Kolkata", "rating": 4.6, "img": "/images/paratha2.jpg" }
+    { "id": 1301, "name": "Sattvik Zaika", "address": "Kothrud, Pune", "rating": 4.5, "img": "/images/paratha1.jpg" },
+    { "id": 1302, "name": "Thali House", "address": "Chandni Chowk, Delhi", "rating": 4.4, "img": "/images/paratha2.jpg" },
+    { "id": 1303, "name": "Green Leaf", "address": "Indiranagar, Bangalore", "rating": 4.6, "img": "/images/paratha3.jpg" },
+    { "id": 1304, "name": "Rasoi Rasam", "address": "T Nagar, Chennai", "rating": 4.3, "img": "/images/paratha4.jpg" },
+    { "id": 1305, "name": "Pure Veg Bhojanalay", "address": "MI Road, Jaipur", "rating": 4.2, "img": "/images/parathas.jpg" },
+    { "id": 1306, "name": "Shuddh Zaika", "address": "Banjara Hills, Hyderabad", "rating": 4.5, "img": "/images/paratha1.jpg" },
+    { "id": 1307, "name": "Annapurna Thali", "address": "Salt Lake, Kolkata", "rating": 4.6, "img": "/images/paratha2.jpg" }
   ]
 }
 

@@ -110,7 +110,7 @@
   "description": "Steamed dumplings filled with vegetables or chicken, served with spicy chutney.",
   "price": 150,
   "stars": 5,
-  "img": "/images/momos.png",
+  "img": "/images/momos.jpg",
   "location": "India",
   "created_at": "2025-01-06 18:00:00",
   "updated_at": "2025-01-06 18:00:00",
@@ -120,7 +120,7 @@
     { "id": 602, "name": "Momo Nation Café", "address": "Lajpat Nagar, Delhi", "rating": 4.4, "img": "/images/momos2.jpg" },
     { "id": 603, "name": "Momo King", "address": "Sector 29, Gurgaon", "rating": 4.7, "img": "/images/momos3.jpg" },
     { "id": 604, "name": "Yeti - Himalayan Kitchen", "address": "Hauz Khas, Delhi", "rating": 4.5, "img": "/images/momos4.jpg" },
-    { "id": 605, "name": "Momo Hut", "address": "Banjara Hills, Hyderabad", "rating": 4.2, "img": "/images/momos.png" },
+    { "id": 605, "name": "Momo Hut", "address": "Banjara Hills, Hyderabad", "rating": 4.2, "img": "/images/momos.jpg" },
     { "id": 606, "name": "Momo Magic", "address": "FC Road, Pune", "rating": 4.3, "img": "/images/momos1.jpg" },
     { "id": 607, "name": "Momo Adda", "address": "Indiranagar, Bangalore", "rating": 4.5, "img": "/images/momos2.jpg" }
   ]
@@ -152,7 +152,7 @@
   "description": "Samosa is a tasty Indian snack, a little pocket of fried dough filled with spiced potato and peas.",
   "price": 170,
   "stars": 4,
-  "img": "/images/Samosha.png",
+  "img": "/images/Samosha.jpg",
   "location": "India",
   "created_at": "2025-01-08 16:00:00",
   "updated_at": "2025-01-08 16:00:00",
@@ -162,7 +162,7 @@
     { "id": 802, "name": "Samosa Hub", "address": "Chandni Chowk, Delhi", "rating": 4.6, "img": "/images/samosha2.jpg" },
     { "id": 803, "name": "Desi Zaika", "address": "Charminar, Hyderabad", "rating": 4.5, "img": "/images/samosha3.jpg" },
     { "id": 804, "name": "Punjabi Rasoi", "address": "Sector 17, Chandigarh", "rating": 4.3, "img": "/images/samosha4.jpeg" },
-    { "id": 805, "name": "Samosa King", "address": "Camp, Pune", "rating": 4.4, "img": "/images/Samosha.png" },
+    { "id": 805, "name": "Samosa King", "address": "Camp, Pune", "rating": 4.4, "img": "/images/Samosha.jpg" },
     { "id": 806, "name": "Zaika Snacks", "address": "Park Street, Kolkata", "rating": 4.2, "img": "/images/samosha1.jpg" },
     { "id": 807, "name": "Bombay Snacks", "address": "Andheri, Mumbai", "rating": 4.5, "img": "/images/samosha2.jpg" }
   ]
@@ -264,13 +264,13 @@
   "updated_at": "2025-01-12 20:00:00",
   "type_id": 1,
   "restaurants": [
-    { "id": 1201, "name": "Sattvik Zaika", "address": "Kothrud, Pune", "rating": 4.5, "img": "/images/paratha1.jpg" },
-    { "id": 1202, "name": "Thali House", "address": "Chandni Chowk, Delhi", "rating": 4.4, "img": "/images/paratha2.jpg" },
-    { "id": 1203, "name": "Green Leaf", "address": "Indiranagar, Bangalore", "rating": 4.6, "img": "/images/paratha3.jpg" },
-    { "id": 1204, "name": "Rasoi Rasam", "address": "T Nagar, Chennai", "rating": 4.3, "img": "/images/paratha4.jpg" },
-    { "id": 1205, "name": "Pure Veg Bhojanalay", "address": "MI Road, Jaipur", "rating": 4.2, "img": "/images/parathas.jpg" },
-    { "id": 1206, "name": "Shuddh Zaika", "address": "Banjara Hills, Hyderabad", "rating": 4.5, "img": "/images/paratha1.jpg" },
-    { "id": 1207, "name": "Annapurna Thali", "address": "Salt Lake, Kolkata", "rating": 4.6, "img": "/images/paratha2.jpg" }
+    { "id": 1301, "name": "Sattvik Zaika", "address": "Kothrud, Pune", "rating": 4.5, "img": "/images/paratha1.jpg" },
+    { "id": 1302, "name": "Thali House", "address": "Chandni Chowk, Delhi", "rating": 4.4, "img": "/images/paratha2.jpg" },
+    { "id": 1303, "name": "Green Leaf", "address": "Indiranagar, Bangalore", "rating": 4.6, "img": "/images/paratha3.jpg" },
+    { "id": 1304, "name": "Rasoi Rasam", "address": "T Nagar, Chennai", "rating": 4.3, "img": "/images/paratha4.jpg" },
+    { "id": 1305, "name": "Pure Veg Bhojanalay", "address": "MI Road, Jaipur", "rating": 4.2, "img": "/images/parathas.jpg" },
+    { "id": 1306, "name": "Shuddh Zaika", "address": "Banjara Hills, Hyderabad", "rating": 4.5, "img": "/images/paratha1.jpg" },
+    { "id": 1307, "name": "Annapurna Thali", "address": "Salt Lake, Kolkata", "rating": 4.6, "img": "/images/paratha2.jpg" }
   ]
 }
 
