@@ -49,7 +49,7 @@
   "description": "Samosa is a tasty Indian snack, a little pocket of fried dough filled with spiced potato and peas.",
   "price": 170,
   "stars": 4,
-  "img": "/images/Samosha.png",
+  "img": "/images/Samosha.jpg",
   "location": "India",
   "created_at": "2025-01-08 16:00:00",
   "updated_at": "2025-01-08 16:00:00",
@@ -59,7 +59,7 @@
     { "id": 802, "name": "Samosa Hub", "address": "Chandni Chowk, Delhi", "rating": 4.6, "img": "/images/samosha2.jpg" },
     { "id": 803, "name": "Desi Zaika", "address": "Charminar, Hyderabad", "rating": 4.5, "img": "/images/samosha3.jpg" },
     { "id": 804, "name": "Punjabi Rasoi", "address": "Sector 17, Chandigarh", "rating": 4.3, "img": "/images/samosha4.jpeg" },
-    { "id": 805, "name": "Samosa King", "address": "Camp, Pune", "rating": 4.4, "img": "/images/Samosha.png" },
+    { "id": 805, "name": "Samosa King", "address": "Camp, Pune", "rating": 4.4, "img": "/images/Samosha.jpg" },
     { "id": 806, "name": "Zaika Snacks", "address": "Park Street, Kolkata", "rating": 4.2, "img": "/images/samosha1.jpg" },
     { "id": 807, "name": "Bombay Snacks", "address": "Andheri, Mumbai", "rating": 4.5, "img": "/images/samosha2.jpg" }
   ]
@@ -141,13 +141,13 @@
   "updated_at": "2025-01-12 20:00:00",
   "type_id": 1,
   "restaurants": [
-    { "id": 1201, "name": "Sattvik Zaika", "address": "Kothrud, Pune", "rating": 4.5, "img": "/images/paratha1.avif" },
-    { "id": 1202, "name": "Thali House", "address": "Chandni Chowk, Delhi", "rating": 4.4, "img": "/images/paratha2.avif" },
-    { "id": 1203, "name": "Green Leaf", "address": "Indiranagar, Bangalore", "rating": 4.6, "img": "/images/paratha3.avif" },
-    { "id": 1204, "name": "Rasoi Rasam", "address": "T Nagar, Chennai", "rating": 4.3, "img": "/images/paratha4.avif" },
+    { "id": 1201, "name": "Sattvik Zaika", "address": "Kothrud, Pune", "rating": 4.5, "img": "/images/paratha1.jpg" },
+    { "id": 1202, "name": "Thali House", "address": "Chandni Chowk, Delhi", "rating": 4.4, "img": "/images/paratha2.jpg" },
+    { "id": 1203, "name": "Green Leaf", "address": "Indiranagar, Bangalore", "rating": 4.6, "img": "/images/paratha3.jpg" },
+    { "id": 1204, "name": "Rasoi Rasam", "address": "T Nagar, Chennai", "rating": 4.3, "img": "/images/paratha4.jpg" },
     { "id": 1205, "name": "Pure Veg Bhojanalay", "address": "MI Road, Jaipur", "rating": 4.2, "img": "/images/parathas.jpg" },
-    { "id": 1206, "name": "Shuddh Zaika", "address": "Banjara Hills, Hyderabad", "rating": 4.5, "img": "/images/paratha1.avif" },
-    { "id": 1207, "name": "Annapurna Thali", "address": "Salt Lake, Kolkata", "rating": 4.6, "img": "/images/paratha2.avif" }
+    { "id": 1206, "name": "Shuddh Zaika", "address": "Banjara Hills, Hyderabad", "rating": 4.5, "img": "/images/paratha1.jpg" },
+    { "id": 1207, "name": "Annapurna Thali", "address": "Salt Lake, Kolkata", "rating": 4.6, "img": "/images/paratha2.jpg" }
   ]
 }
 
