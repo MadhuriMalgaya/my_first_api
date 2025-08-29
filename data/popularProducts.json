@@ -18,7 +18,17 @@
       { "id": 105, "name": "Snack Junction", "address": "FC Road, Pune, Maharashtra", "rating": 4.3, "img": "/images/aloo_tiki.jpeg" },
       { "id": 106, "name": "Street Bites", "address": "Navrangpura, Ahmedabad, Gujarat", "rating": 4.4, "img": "/images/burger2.jpg" },
       { "id": 107, "name": "Urban Eats", "address": "Anna Nagar, Chennai, Tamil Nadu", "rating": 4.5, "img": "/images/burger1.jpg" }
-    ]
+    ],
+    "varieties": [
+      { "id": 10101, "name": "Cheese Burger", "description": "Beef patty with melted cheese and lettuce.", "price": 100, "img": "/images/cheese_burger.jpg" },
+      { "id": 10102, "name": "Veggie Burger", "description": "Grilled veggie patty with onions and capsicum.", "price": 60, "img": "/images/veggie_burger.jpg" },
+      { "id": 10103, "name": "Paneer Tikka Burger", "description": "Spicy paneer tikka stuffed in a soft bun.", "price": 90, "img": "/images/burger4.jpg" },
+      { "id": 10104, "name": "Aloo Tikki Burger", "description": "Crispy aloo tikki with mayo and onions.", "price": 70, "img": "/images/aloo_tiki.jpeg" },
+      { "id": 10105, "name": "Chicken Burger", "description": "Juicy chicken patty with cheese and lettuce.", "price": 120, "img": "/images/chicken_burger.jpg" },
+      { "id": 10106, "name": "Double Patty Burger", "description": "Two patties stacked with extra cheese.", "price": 150, "img": "/images/double_patty.jpg" },
+      { "id": 10107, "name": "BBQ Burger", "description": "Smoky BBQ sauce with beef/chicken patty.", "price": 200, "img": "/images/burger2.jpg" },
+      { "id": 10108, "name": "Crispy Fried Burger", "description": "Crispy fried chicken burger with spicy mayo.", "price": 180, "img": "/images/burger3.jpg" }
+  ]
   },
   {
     "id": 2,
@@ -39,7 +49,18 @@
       { "id": 205, "name": "Delhi Biryani Corner", "address": "Karol Bagh, New Delhi", "rating": 4.4, "img": "/images/biryani1.jpg" },
       { "id": 206, "name": "Kolkata Biryani Center", "address": "Salt Lake, Kolkata, West Bengal", "rating": 4.5, "img": "/images/biryani2.jpg" },
       { "id": 207, "name": "Royal Biryani", "address": "Camp, Pune, Maharashtra", "rating": 4.3, "img": "/images/biryani3.jpg" }
-    ]
+    ],
+    "varieties": [
+      { "id": 10201, "name": "Hyderabadi Biryani", "description": "Spicy and flavorful, cooked with basmati rice and meat.", "price": 350, "img": "/images/hyderabadi_biryani.jpg" },
+      { "id": 10202, "name": "Lucknowi (Awadhi) Biryani", "description": "Milder, aromatic biryani with rich flavors from Awadh.", "price": 340, "img": "/images/biryani3.jpg" },
+      { "id": 10203, "name": "Kolkata Biryani", "description": "Flavored with potatoes, subtle spices, and mild aroma.", "price": 320, "img": "/images/Biryani.jpg" },
+      { "id": 10204, "name": "Sindhi Biryani", "description": "Tangy and spicy biryani with yogurt and green chilies.", "price": 330, "img": "/images/biryani1.jpg" },
+      { "id": 10205, "name": "Ambur Biryani", "description": "South Indian biryani with short-grain rice and mutton.", "price": 340, "img": "/images/biryani2.jpg" },
+      { "id": 10206, "name": "Malabar Biryani", "description": "Kerala style biryani with fried onions and cashews.", "price": 360, "img": "/images/hyderabadi_biryani.jpg" },
+      { "id": 10207, "name": "Dindigul Biryani", "description": "Tamil Nadu special biryani with seeraga samba rice.", "price": 330, "img": "/images/biryani3.jpg" },
+      { "id": 10208, "name": "Kashmiri Biryani", "description": "Rich, aromatic biryani with dry fruits and mild spices.", "price": 370, "img": "/images/biryani1.jpg" }
+   ]
+
   },
   {
     "id": 3,
@@ -60,7 +81,18 @@
       { "id": 305, "name": "Sandwich Express", "address": "Gopalpura, Jaipur, Rajasthan", "rating": 4.4, "img": "/images/sandwich.jpg" },
       { "id": 306, "name": "Urban Sandwich", "address": "Banjara Hills, Hyderabad, Telangana", "rating": 4.5, "img": "/images/sandwich1.jpg" },
       { "id": 307, "name": "Street Toast", "address": "Anna Nagar, Chennai, Tamil Nadu", "rating": 4.2, "img": "/images/sandwich2.jpg" }
+    ],
+    "varieties": [
+      { "id": 10301, "name": "Veg Sandwich", "description": "Fresh veggies with butter and chutney.", "price": 50, "img": "/images/sandwich.jpg" },
+      { "id": 10302, "name": "Grilled Cheese Sandwich", "description": "Cheesy delight with crispy grilled bread.", "price": 150, "img": "/images/sandwich4.jpg" },
+      { "id": 10303, "name": "Paneer Tikka Sandwich", "description": "Spicy paneer tikka with veggies.", "price": 180, "img": "/images/sandwich3.jpg" },
+      { "id": 10304, "name": "Club Sandwich", "description": "Triple-layered sandwich with veggies and sauces.", "price": 200, "img": "/images/sandwich2.jpg" },
+      { "id": 10305, "name": "Corn & Cheese Sandwich", "description": "Cheesy sandwich stuffed with sweet corn.", "price": 170, "img": "/images/sandwich1.jpg" },
+      { "id": 10306, "name": "Egg Sandwich", "description": "Boiled egg with mayo and lettuce.", "price": 160, "img": "/images/sandwich.jpg" },
+      { "id": 10307, "name": "Chicken Sandwich", "description": "Grilled chicken with lettuce and mayo.", "price": 220, "img": "/images/sandwich4.jpg" },
+      { "id": 10308, "name": "Tuna Sandwich", "description": "Tuna filling with onions and mayo.", "price": 250, "img": "/images/sandwich3.jpg" }
     ]
+
   },
   {
     "id": 4,
@@ -81,11 +113,22 @@
       { "id": 405, "name": "Raj Rasoi", "address": "Bikaner, Rajasthan", "rating": 4.4, "img": "/images/Dal_bati1.jpg" },
       { "id": 406, "name": "Jaipur Thali", "address": "Amer Road, Jaipur, Rajasthan", "rating": 4.3, "img": "/images/Dal_Bati2.jpg" },
       { "id": 407, "name": "Rajwada Bhojan", "address": "Kota, Rajasthan", "rating": 4.6, "img": "/images/Dal_bati3.jpg" }
-    ]
+    ],
+    "varieties": [
+      { "id": 10401, "name": "Classic Dal Baati Churma", "description": "Traditional Rajasthani platter with dal, baati, and sweet churma.", "price": 250, "img": "/images/Dal_bati3.jpg" },
+      { "id": 10402, "name": "Ghee Dal Baati Churma", "description": "Baati dipped in desi ghee with rich dal and churma.", "price": 280, "img": "/images/Dal_Bati.jpg" },
+      { "id": 10403, "name": "Stuffed Baati Dal Churma", "description": "Baati stuffed with spiced masala served with dal and churma.", "price": 300, "img": "/images/Dal_Bati2.jpg" },
+      { "id": 10404, "name": "Masala Dal Baati Churma", "description": "Tangy and spicy dal with crispy baati and churma.", "price": 270, "img": "/images/Dal_bati1.jpg" },
+      { "id": 10405, "name": "Mix Dal Baati Churma", "description": "Combination of five dals with baati and churma.", "price": 290, "img": "/images/Dal_Bati.jpg" },
+      { "id": 10406, "name": "Bajra Baati Dal Churma", "description": "Healthy bajra baati served with dal and churma.", "price": 260, "img": "/images/Dal_bati3.jpg" },
+      { "id": 10407, "name": "Mini Baati Dal Churma", "description": "Small bite-sized baatis with dal and churma.", "price": 240, "img": "/images/Dal_Bati2.jpg" },
+      { "id": 10408, "name": "Special Royal Dal Baati Churma", "description": "Royal thali with rich dal, baati soaked in ghee, and churma.", "price": 320, "img": "/images/Dal_Bati.jpg" }
+]
+
   },
   {
   "id": 5,
-  "name": "Pasta Alfredo",
+  "name": "Pasta",
   "description": "Creamy pasta with Alfredo sauce, mushrooms, and parmesan cheese.",
   "price": 200,
   "stars": 4,
@@ -102,7 +145,18 @@
     { "id": 505, "name": "Cheese & Basil", "address": "Anna Nagar, Chennai", "rating": 4.3, "img": "/images/pasta.jpg" },
     { "id": 506, "name": "Olive Garden India", "address": "Cyber Hub, Gurgaon", "rating": 4.8, "img": "/images/pasta1.jpg" },
     { "id": 507, "name": "Pasta Point", "address": "Camp, Pune", "rating": 4.5, "img": "/images/pasta2.jpg" }
-  ]
+  ],
+  "varieties": [
+  { "id": 10501, "name": "White Sauce Pasta", "description": "Creamy pasta cooked in rich white sauce with herbs.", "price": 220, "img": "/images/pasta.jpg" },
+  { "id": 10502, "name": "Red Sauce Pasta", "description": "Tangy tomato-based pasta with Italian spices.", "price": 200, "img": "/images/pasta3.jpg" },
+  { "id": 10503, "name": "Pink Sauce Pasta", "description": "A fusion of white and red sauces for a creamy-tangy taste.", "price": 230, "img": "/images/pasta1.jpg" },
+  { "id": 10504, "name": "Pesto Pasta", "description": "Basil pesto pasta tossed with parmesan and olive oil.", "price": 250, "img": "/images/pasta2.jpg" },
+  { "id": 10505, "name": "Macaroni Pasta", "description": "Cheesy macaroni pasta baked to perfection.", "price": 210, "img": "/images/macroni_pasta.jpg" },
+  { "id": 10506, "name": "Aglio e Olio Pasta", "description": "Traditional Italian pasta with garlic, olive oil, and chili flakes.", "price": 240, "img": "/images/olio_pasta.jpg" },
+  { "id": 10507, "name": "Arrabbiata Pasta", "description": "Spicy pasta cooked in chili-tomato sauce.", "price": 230, "img": "/images/arrabibbata_pasta.jpg" },
+  { "id": 10508, "name": "Lasagna Pasta", "description": "Layered pasta with cheese, veggies, and sauces baked golden.", "price": 300, "img": "/images/pasta4.jpeg" }
+]
+
 },
 {
   "id": 6,
@@ -123,7 +177,17 @@
     { "id": 605, "name": "Momo Hut", "address": "Banjara Hills, Hyderabad", "rating": 4.2, "img": "/images/momos.jpg" },
     { "id": 606, "name": "Momo Magic", "address": "FC Road, Pune", "rating": 4.3, "img": "/images/momos1.jpg" },
     { "id": 607, "name": "Momo Adda", "address": "Indiranagar, Bangalore", "rating": 4.5, "img": "/images/momos2.jpg" }
-  ]
+  ],
+ "varieties":[
+    { "id": 10601, "name": "Steamed Momos", "description": "Soft dumplings filled with veggies or meat, steamed to perfection.", "price": 120, "img": "/images/momos.jpg" },
+    { "id": 10602, "name": "Fried Momos", "description": "Crispy fried dumplings with spicy stuffing, served with chutney.", "price": 140, "img": "/images/momos3.jpg" },
+    { "id": 10603, "name": "Tandoori Momos", "description": "Smoky momos marinated with tandoori spices and roasted.", "price": 160, "img": "/images/momos1.jpg" },
+    { "id": 10604, "name": "Afghani Momos", "description": "Creamy and rich momos tossed in Afghani sauce with spices.", "price": 180, "img": "/images/momos2.jpg" },
+    { "id": 10605, "name": "Paneer Momos", "description": "Stuffed with soft paneer, herbs, and mild spices.", "price": 150, "img": "/images/momos4.jpg" },
+    { "id": 10606, "name": "Chicken Momos", "description": "Juicy chicken filling wrapped in thin momo sheets.", "price": 170, "img": "/images/momos3.jpg" },
+    { "id": 10607, "name": "Cheese Momos", "description": "Melted cheese filled inside soft dumplings for a gooey taste.", "price": 160, "img": "/images/momos.jpg" },
+    { "id": 10608, "name": "Chocolate Momos", "description": "Sweet momos filled with chocolate, perfect as a dessert.", "price": 140, "img": "/images/chochlate_momos.jpg" }
+    ]
 },
 {
   "id": 7,
@@ -144,7 +208,17 @@
     { "id": 705, "name": "Theobroma", "address": "Bandra, Mumbai", "rating": 4.8, "img": "/images/icecream.jpg" },
     { "id": 706, "name": "Polar Bear", "address": "MG Road, Bangalore", "rating": 4.4, "img": "/images/desserts1.jpg" },
     { "id": 707, "name": "Dessert Junction", "address": "Park Street, Kolkata", "rating": 4.3, "img": "/images/dessert2.jpg" }
-  ]
+  ],
+  "varieties": [
+    {"id": 10701, "name": "Gulab Jamun", "description": "Soft fried milk-solid balls soaked in sugar syrup.", "price": 120, "img": "/images/gulab_jamun.jpg" },
+    { "id": 10702, "name": "Rasgulla", "description": "Spongy balls of cottage cheese soaked in light sugar syrup.", "price": 100, "img": "/images/rasgulla.jpg" },
+    { "id": 10703, "name": "Kheer", "description": "Traditional rice pudding cooked with milk, sugar, and dry fruits.", "price": 150, "img": "/images/kheer.jpg" },
+    { "id": 10704, "name": "Ice Cream Sundae", "description": "Chilled ice cream with chocolate syrup, nuts, and cherries.", "price": 180, "img": "/images/icecream1.jpg" },
+    { "id": 10705, "name": "Chocolate Brownie", "description": "Rich chocolate brownie served with hot fudge.", "price": 200, "img": "/images/desserts4.jpeg" },
+    { "id": 10706, "name": "Cheesecake", "description": "Creamy cheesecake topped with fruit or chocolate.", "price": 250, "img": "/images/dessert2.jpg" },
+    { "id": 10707, "name": "Fruit Salad", "description": "Fresh seasonal fruits served with cream or honey.", "price": 160, "img": "/images/fruit-salad.jpg" },
+    { "id": 10708, "name": "Kulfi", "description": "Traditional Indian frozen dairy dessert with cardamom and nuts.", "price": 130, "img": "/images/kulfi.jpg" }
+      ]
 },
 {
   "id": 8,
@@ -165,7 +239,18 @@
     { "id": 805, "name": "Samosa King", "address": "Camp, Pune", "rating": 4.4, "img": "/images/Samosha.jpg" },
     { "id": 806, "name": "Zaika Snacks", "address": "Park Street, Kolkata", "rating": 4.2, "img": "/images/samosha1.jpg" },
     { "id": 807, "name": "Bombay Snacks", "address": "Andheri, Mumbai", "rating": 4.5, "img": "/images/samosha2.jpg" }
-  ]
+  ],
+  "varieties": [
+  { "id": 10801, "name": "Aloo Samosa", "description": "Classic samosa filled with spicy mashed potatoes and peas.", "price": 20, "img": "/images/Samosha.jpg" },
+  { "id": 10802, "name": "Paneer Samosa", "description": "Crispy samosa stuffed with spiced paneer cubes and herbs.", "price": 30, "img": "/images/samosha4.jpeg" },
+  { "id": 10803, "name": "Keema Samosa", "description": "Deep-fried samosa filled with minced meat and spices.", "price": 40, "img": "/images/samosha3.jpg" },
+  { "id": 10804, "name": "Cheese Samosa", "description": "Delicious samosa with gooey melted cheese filling.", "price": 35, "img": "/images/samosha2.jpg" },
+  { "id": 10805, "name": "Sweet Samosa", "description": "Unique samosa stuffed with khoya, dry fruits, and sugar.", "price": 25, "img": "/images/samosha1.jpg" },
+  { "id": 10806, "name": "Vegetable Samosa", "description": "Crispy samosa with mixed vegetables and spices.", "price": 25, "img": "/images/samosha4.jpg" },
+  { "id": 10807, "name": "Chicken Samosa", "description": "Spiced chicken filling wrapped in a crunchy samosa shell.", "price": 45, "img": "/images/Samosha.jpg" },
+  { "id": 10808, "name": "Corn Samosa", "description": "Golden samosa filled with sweet corn and masala.", "price": 30, "img": "/images/samosha2.jpg" }
+]
+
 },
 {
   "id": 9,
@@ -186,6 +271,16 @@
     { "id": 905, "name": "Mojo Pizza", "address": "Indiranagar, Bangalore", "rating": 4.2, "img": "/images/pizza.jpg" },
     { "id": 906, "name": "Pizza Express", "address": "Park Street, Kolkata", "rating": 4.4, "img": "/images/pizza1.jpg" },
     { "id": 907, "name": "1441 Pizzeria", "address": "Fort, Mumbai", "rating": 4.7, "img": "/images/pizza2.jpg" }
+  ],
+  "varieties": [
+    { "id": 10901, "name": "Paneer Pizza", "description": "Loaded with paneer, capsicum, and onion.", "price": 300, "img": "/images/pizza3.jpg" },
+    { "id": 10902, "name": "Onion Pizza", "description": "Cheese burst with extra onions.", "price": 280, "img": "/images/pizza4.jpg" },
+    { "id": 10903, "name": "Corn Pizza", "description": "Cheesy pizza with sweet corn.", "price": 290, "img": "/images/pizza3.jpg" },
+    { "id": 10904, "name": "Margherita Pizza", "description": "Classic cheese and tomato Margherita.", "price": 270, "img": "/images/pizza2.jpg" },
+    { "id": 10905, "name": "Veggie Delight Pizza", "description": "Topped with bell peppers, onions, and olives.", "price": 320, "img": "/images/pizza.jpg" },
+    { "id": 10906, "name": "Cheese Burst Pizza", "description": "Stuffed with extra molten cheese inside the crust.", "price": 350, "img": "/images/pizza1.jpg" },
+    { "id": 10907, "name": "Farmhouse Pizza", "description": "Combination of onion, capsicum, tomato, and mushrooms.", "price": 330, "img": "/images/pizza.jpg" },
+    { "id": 10908, "name": "Tandoori Paneer Pizza", "description": "Spicy paneer tikka with Indian spices and cheese.", "price": 340, "img": "/images/pizza4.jpg" }
   ]
 },
 {
@@ -207,7 +302,18 @@
     { "id": 1005, "name": "Nature’s Basket", "address": "Bandra, Mumbai", "rating": 4.3, "img": "/images/fruit_salad1.jpg" },
     { "id": 1006, "name": "Fruit Factory", "address": "Park Street, Kolkata", "rating": 4.7, "img": "/images/fruit_salad2.jpg" },
     { "id": 1007, "name": "Juice Junction", "address": "Anna Nagar, Chennai", "rating": 4.5, "img": "/images/fruit_salad3.jpg" }
-  ]
+  ],
+  "varieties": [
+  { "id": 101001, "name": "Classic Fruit Salad", "description": "A refreshing mix of seasonal fruits with a light honey dressing.", "price": 120, "img": "/images/fruit-salad.jpg" },
+  { "id": 101002, "name": "Tropical Fruit Salad", "description": "Pineapple, mango, papaya, and coconut flakes with lime dressing.", "price": 150, "img": "/images/fruit_salad3.jpg" },
+  { "id": 101003, "name": "Berry Blast Salad", "description": "Strawberries, blueberries, raspberries, and blackberries topped with mint.", "price": 180, "img": "/images/fruit_salad2.jpg" },
+  { "id": 101004, "name": "Creamy Fruit Salad", "description": "Fruits mixed with whipped cream and a touch of condensed milk.", "price": 160, "img": "/images/fruit_salad1.jpg" },
+  { "id": 101005, "name": "Dry Fruit Mix Salad", "description": "Apples, bananas, grapes, and assorted dry fruits with honey.", "price": 200, "img": "/images/fruit-salad.jpg" },
+  { "id": 101006, "name": "Watermelon Mint Salad", "description": "Juicy watermelon chunks with mint leaves and lemon zest.", "price": 130, "img": "/images/fruit_salad2.jpg" },
+  { "id": 101007, "name": "Exotic Kiwi & Dragon Fruit Salad", "description": "Kiwi, dragon fruit, pomegranate, and orange slices for a vibrant mix.", "price": 220, "img": "/images/fruit_salad1.jpg" },
+  { "id": 101008, "name": "Apple Banana Chaat", "description": "Apples, bananas, and grapes spiced with chaat masala and lemon juice.", "price": 140, "img": "/images/fruit_salad2.jpg" }
+]
+
 },
 {
   "id": 11,
@@ -228,6 +334,17 @@
     { "id": 1105, "name": "The Cocoa House", "address": "Gomti Nagar, Lucknow", "rating": 4.4, "img": "/images/icecream1.jpg" },
     { "id": 1106, "name": "Sugar Rush", "address": "MG Road, Pune", "rating": 4.3, "img": "/images/cake1.jpg" },
     { "id": 1107, "name": "Divine Bakes", "address": "Banjara Hills, Hyderabad", "rating": 4.6, "img": "/images/cake2.jpg" }
+  ],
+  "varieties":[
+    { "id": 101101, "name": "Chocolate Cake", "description": "Rich and moist cake with layers of chocolate frosting.", "price": 350, "img": "/images/cake1.jpg" },
+    { "id": 101102, "name": "Vanilla Cake", "description": "Classic soft vanilla sponge with creamy frosting.", "price": 300, "img": "/images/cake2.jpg" },
+    { "id": 101103, "name": "Red Velvet Cake", "description": "Fluffy red velvet layers with cream cheese frosting.", "price": 400, "img": "/images/red_velvet.jpg" },
+    { "id": 101104, "name": "Black Forest Cake", "description": "Chocolate sponge layered with cream and cherries.", "price": 420, "img": "/images/black_forest_cake.jpg" },
+    { "id": 101105, "name": "Pineapple Cake", "description": "Light sponge filled with pineapple cream and toppings.", "price": 320, "img": "/images/cake3.jpg" },
+    { "id": 101106, "name": "RasMalayi Cake", "description": "Creamy baked cheesecake with buttery crust.", "price": 450, "img": "/images/cake4.jpg" },
+    { "id": 101107, "name": "Strawberry Cake", "description": "Soft sponge cake with strawberry cream and glaze.", "price": 380, "img": "/images/cake3.jpg" },
+    { "id": 101108, "name": "Fruit Cake", "description": "Moist sponge with candied fruits and nuts.", "price": 360, "img": "/images/fruit_cake.jpg" }
+
   ]
 },
 {
@@ -249,6 +366,17 @@
     { "id": 1205, "name": "Pure Veg Bhojanalay", "address": "MI Road, Jaipur", "rating": 4.2, "img": "/images/veg_thali1.jpg" },
     { "id": 1206, "name": "Shuddh Zaika", "address": "Banjara Hills, Hyderabad", "rating": 4.5, "img": "/images/veg_thali2.jpg" },
     { "id": 1207, "name": "Annapurna Thali", "address": "Salt Lake, Kolkata", "rating": 4.6, "img": "/images/veg_thali3.jpeg" }
+  ],
+  "varieties":[
+    { "id": 101201, "name": "North Indian Thali", "description": "A wholesome platter with roti, dal, sabzi, rice, curd, and sweet.", "price": 350, "img": "/images/veg_thali.png" },
+    { "id": 101202, "name": "South Indian Thali", "description": "Traditional thali with sambar, rasam, poriyal, curd rice, appalam, and payasam.", "price": 320, "img": "/images/South_Indian_Thali.jpg" },
+    { "id": 101203, "name": "Gujarati Thali", "description": "Includes roti, dal, kadhi, shaak, farsan, khichdi, and sweet dish.", "price": 340, "img": "/images/veg_thali3.jpeg" },
+    { "id": 101204, "name": "Rajasthani Thali", "description": "Royal thali with dal bati churma, gatte ki sabzi, ker sangri, bajra roti, and ladoo.", "price": 380, "img": "/images/veg_thali2.jpg" },
+    { "id": 101205, "name": "Bengali Thali", "description": "Includes luchi, aloo dum, shukto, dal, rice, mishti doi, and rasgulla.", "price": 360, "img": "/images/veg_thali1.jpg" },
+    { "id": 101206, "name": "Maharashtrian Thali", "description": "Includes puran poli, varan bhaat, sabudana khichdi, bhakri, and shrikhand.", "price": 330, "img": "/images/veg_thali.png" },
+    { "id": 101207, "name": "Punjabi Thali", "description": "Delicious thali with butter naan, dal makhani, paneer butter masala, jeera rice, and lassi.", "price": 370, "img": "/images/veg_thali3.jpeg" },
+    { "id": 101208, "name": "Kashmiri Thali", "description": "Includes dum aloo, rajma, nadru yakhni, rice, haak, and phirni.", "price": 390, "img": "/images/veg_thali2.jpg" }
+
   ]
 },
 
@@ -271,6 +399,21 @@
     { "id": 1305, "name": "Pure Veg Bhojanalay", "address": "MI Road, Jaipur", "rating": 4.2, "img": "/images/parathas.jpg" },
     { "id": 1306, "name": "Shuddh Zaika", "address": "Banjara Hills, Hyderabad", "rating": 4.5, "img": "/images/paratha1.jpg" },
     { "id": 1307, "name": "Annapurna Thali", "address": "Salt Lake, Kolkata", "rating": 4.6, "img": "/images/paratha2.jpg" }
+  ],
+  "varieties":[
+    {
+  "varieties": [
+    { "id": 101301, "name": "Aloo Paratha", "description": "Stuffed with spiced mashed potatoes, served with butter and curd.", "price": 120, "img": "/images/paratha1.jpg" },
+    { "id": 101302, "name": "Paneer Paratha", "description": "Soft paratha stuffed with grated paneer and spices.", "price": 140, "img": "/images/paratha2.jpg" },
+    { "id": 101303, "name": "Gobi Paratha", "description": "Paratha stuffed with spiced grated cauliflower.", "price": 130, "img": "/images/paratha3.jpg" },
+    { "id": 101304, "name": "Methi Paratha", "description": "Whole wheat paratha mixed with fresh fenugreek leaves.", "price": 110, "img": "/images/paratha4.jpg" },
+    { "id": 101305, "name": "Mix Veg Paratha", "description": "Stuffed with a mixture of seasonal vegetables and spices.", "price": 150, "img": "/images/parathas.jpg" },
+    { "id": 101306, "name": "Onion Paratha", "description": "Crispy paratha stuffed with spiced onions and herbs.", "price": 120, "img": "/images/paratha1.jpg" },
+    { "id": 101307, "name": "Cheese Paratha", "description": "Paratha filled with gooey melted cheese.", "price": 160, "img": "/images/parathas.jpg" },
+    { "id": 101308, "name": "Lachha Paratha", "description": "Layered flaky paratha cooked with ghee.", "price": 100, "img": "/images/paratha3.jpg" }
+  ]
+}
+
   ]
 }
 
