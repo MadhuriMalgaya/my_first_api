@@ -15,7 +15,7 @@
       { "id": 102, "name": "Burger Palace", "address": "Connaught Place, New Delhi", "rating": 4.2, "img": "/images/burger1.jpg" },
       { "id": 103, "name": "FirstBite", "address": "GTB, Kharar,Punjab", "rating": 4.7, "img": "/images/burger3.jpg" },
       { "id": 104, "name": "Tasty Treats", "address": "Banjara Hills, Hyderabad, Telangana", "rating": 4.6, "img": "/images/burger4.jpg" },
-      { "id": 105, "name": "Snack Junction", "address": "FC Road, Pune, Maharashtra", "rating": 4.3, "img": "/images/aloo_tiki.jpg" },
+      { "id": 105, "name": "Snack Junction", "address": "FC Road, Pune, Maharashtra", "rating": 4.3, "img": "/images/aloo_tiki.jpeg" },
       { "id": 106, "name": "Street Bites", "address": "Navrangpura, Ahmedabad, Gujarat", "rating": 4.4, "img": "/images/burger2.jpg" },
       { "id": 107, "name": "Urban Eats", "address": "Anna Nagar, Chennai, Tamil Nadu", "rating": 4.5, "img": "/images/burger1.jpg" }
     ]
