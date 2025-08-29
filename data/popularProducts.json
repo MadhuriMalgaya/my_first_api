@@ -400,8 +400,6 @@
     { "id": 1306, "name": "Shuddh Zaika", "address": "Banjara Hills, Hyderabad", "rating": 4.5, "img": "/images/paratha1.jpg" },
     { "id": 1307, "name": "Annapurna Thali", "address": "Salt Lake, Kolkata", "rating": 4.6, "img": "/images/paratha2.jpg" }
   ],
-  "varieties":[
-    {
   "varieties": [
     { "id": 101301, "name": "Aloo Paratha", "description": "Stuffed with spiced mashed potatoes, served with butter and curd.", "price": 120, "img": "/images/paratha1.jpg" },
     { "id": 101302, "name": "Paneer Paratha", "description": "Soft paratha stuffed with grated paneer and spices.", "price": 140, "img": "/images/paratha2.jpg" },
@@ -411,9 +409,6 @@
     { "id": 101306, "name": "Onion Paratha", "description": "Crispy paratha stuffed with spiced onions and herbs.", "price": 120, "img": "/images/paratha1.jpg" },
     { "id": 101307, "name": "Cheese Paratha", "description": "Paratha filled with gooey melted cheese.", "price": 160, "img": "/images/parathas.jpg" },
     { "id": 101308, "name": "Lachha Paratha", "description": "Layered flaky paratha cooked with ghee.", "price": 100, "img": "/images/paratha3.jpg" }
-  ]
-}
-
   ]
 }
 
