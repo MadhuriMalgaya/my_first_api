@@ -185,7 +185,7 @@
     { "id": 904, "name": "La Pino’z", "address": "Connaught Place, Delhi", "rating": 4.6, "img": "/images/pizza4.jpg" },
     { "id": 905, "name": "Mojo Pizza", "address": "Indiranagar, Bangalore", "rating": 4.2, "img": "/images/pizza.jpg" },
     { "id": 906, "name": "Pizza Express", "address": "Park Street, Kolkata", "rating": 4.4, "img": "/images/pizza1.jpg" },
-    { "id": 907, "name": "1441 Pizzeria", "address": "Fort, Mumbai", "rating": 4.7, "img": "/images/pasta2.jpg" }
+    { "id": 907, "name": "1441 Pizzeria", "address": "Fort, Mumbai", "rating": 4.7, "img": "/images/pizza2.jpg" }
   ]
 },
 {
