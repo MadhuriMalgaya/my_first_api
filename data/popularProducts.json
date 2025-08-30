@@ -246,7 +246,7 @@
   { "id": 10803, "name": "Keema Samosa", "description": "Deep-fried samosa filled with minced meat and spices.", "price": 40, "img": "/images/samosha3.jpg" },
   { "id": 10804, "name": "Cheese Samosa", "description": "Delicious samosa with gooey melted cheese filling.", "price": 35, "img": "/images/samosha2.jpg" },
   { "id": 10805, "name": "Sweet Samosa", "description": "Unique samosa stuffed with khoya, dry fruits, and sugar.", "price": 25, "img": "/images/samosha1.jpg" },
-  { "id": 10806, "name": "Vegetable Samosa", "description": "Crispy samosa with mixed vegetables and spices.", "price": 25, "img": "/images/samosha4.jpg" },
+  { "id": 10806, "name": "Vegetable Samosa", "description": "Crispy samosa with mixed vegetables and spices.", "price": 25, "img": "/images/samosha4.jpeg" },
   { "id": 10807, "name": "Chicken Samosa", "description": "Spiced chicken filling wrapped in a crunchy samosa shell.", "price": 45, "img": "/images/Samosha.jpg" },
   { "id": 10808, "name": "Corn Samosa", "description": "Golden samosa filled with sweet corn and masala.", "price": 30, "img": "/images/samosha2.jpg" }
 ]
